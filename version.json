@@ -1,7 +1,5 @@
 {
-  "version": "1.1.0",
-  "releaseDate": "2026-06-24",
-  "changelog": "Fixed login EPERM error, fixed video upload permissions, fixed SAM2 model corruption detection, fixed setup interruption resume, improved install speed.",
-  "downloadUrl": "https://github.com/nikh360pro/segforge-releases/releases/latest/download/SegForge-Setup.exe",
-  "minSupportedVersion": "1.0.0"
+  "version": "1.12.0",
+  "changelog": "Bug fixes & stability improvements",
+  "downloadUrl": "https://github.com/nikh360pro/segforge-releases/releases/latest/download/SegForge-Setup.zip"
 }
