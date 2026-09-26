@@ -1,5 +1,5 @@
 {
-  "version": "1.12.0",
-  "changelog": "Bug fixes & stability improvements",
+  "version": "1.13.0",
+  "changelog": "Performance optimizations: parallel frame processing, GPU-accelerated U2Net matting, NumPy compositing, hardware video encoding, torch.compile SAM2 inference",
   "downloadUrl": "https://github.com/nikh360pro/segforge-releases/releases/latest/download/SegForge-Setup.zip"
 }
