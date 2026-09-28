@@ -1,5 +1,5 @@
 {
-  "version": "1.13.0",
-  "changelog": "Performance optimizations: parallel frame processing, GPU-accelerated U2Net matting, NumPy compositing, hardware video encoding, torch.compile SAM2 inference",
+  "version": "1.14.0",
+  "changelog": "Fix: U2Net onnxruntime WebGPU API compatibility (is_webgpu_graph_capture_enabled); CPU optimization guards for torch version compatibility; Remove hardcoded version from UI bug reports",
   "downloadUrl": "https://github.com/nikh360pro/segforge-releases/releases/latest/download/SegForge-Setup.zip"
 }
