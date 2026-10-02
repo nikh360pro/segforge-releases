@@ -1,5 +1,5 @@
 {
-  "version": "1.15.0",
-  "changelog": "CPU performance: dynamic INT8 quantization (2.8x speedup on transformer layers) - reduces processing from 3-4s/it to ~1-1.5s/it on CPU-only systems without any quality loss",
+  "version": "1.15.1",
+  "changelog": "License validation switched from Gumroad to Dodo Payments. Buyers now receive a license key automatically by email after purchase and can activate directly in the tool.",
   "downloadUrl": "https://github.com/nikh360pro/segforge-releases/releases/latest/download/SegForge-Setup.zip"
 }
