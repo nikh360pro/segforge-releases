@@ -1,5 +1,5 @@
 {
-  "version": "1.15.2",
-  "changelog": "Sign Up tab now shown by default on first launch for easier onboarding. Minor UI text updates.",
+  "version": "1.15.3",
+  "changelog": "Fix: Sign Up tab now always shown on first install. Fixed CEP panel cache issue by cache-busting login page on every redirect.",
   "downloadUrl": "https://github.com/nikh360pro/segforge-releases/releases/latest/download/SegForge-Setup.zip"
 }
