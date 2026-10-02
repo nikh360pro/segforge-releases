@@ -1,5 +1,5 @@
 {
-  "version": "1.15.1",
-  "changelog": "License validation switched from Gumroad to Dodo Payments. Buyers now receive a license key automatically by email after purchase and can activate directly in the tool.",
+  "version": "1.15.2",
+  "changelog": "Sign Up tab now shown by default on first launch for easier onboarding. Minor UI text updates.",
   "downloadUrl": "https://github.com/nikh360pro/segforge-releases/releases/latest/download/SegForge-Setup.zip"
 }
