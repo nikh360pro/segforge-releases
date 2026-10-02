@@ -1,5 +1,5 @@
 {
-  "version": "1.15.3",
-  "changelog": "Fix: Sign Up tab now always shown on first install. Fixed CEP panel cache issue by cache-busting login page on every redirect.",
+  "version": "1.15.4",
+  "changelog": "New signup flow: email verification required before license activation. Sign Up shows email and password only. After email verification, user enters license key on a separate screen. Returning users click Sign In tab.",
   "downloadUrl": "https://github.com/nikh360pro/segforge-releases/releases/latest/download/SegForge-Setup.zip"
 }
