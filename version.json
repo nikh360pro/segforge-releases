@@ -1,5 +1,5 @@
 {
   "version": "1.15.5",
-  "changelog": "Desktop app sign-up is now two steps: email + password (Verify Account), then license key (Activate License). Opens on Sign Up by default. Fixes 'No license found' after sign-up.",
+  "changelog": "Reliable activation: one-step idempotent license binding, real error messages in the desktop app, optional email verification step, sign-up opens first.",
   "downloadUrl": "https://github.com/nikh360pro/segforge-releases/releases/latest/download/SegForge-Setup.zip"
 }
