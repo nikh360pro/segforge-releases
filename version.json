@@ -1,5 +1,5 @@
 {
   "version": "1.15.5",
-  "changelog": "Fix: Account creation now works without email verification. After sign up, tool auto-logs in and shows license key entry screen immediately. Sign in works correctly after account creation.",
+  "changelog": "Desktop app sign-up is now two steps: email + password (Verify Account), then license key (Activate License). Opens on Sign Up by default. Fixes 'No license found' after sign-up.",
   "downloadUrl": "https://github.com/nikh360pro/segforge-releases/releases/latest/download/SegForge-Setup.zip"
 }
