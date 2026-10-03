@@ -1,5 +1,5 @@
 {
-  "version": "1.15.4",
-  "changelog": "New signup flow: email verification required before license activation. Sign Up shows email and password only. After email verification, user enters license key on a separate screen. Returning users click Sign In tab.",
+  "version": "1.15.5",
+  "changelog": "Fix: CEP panel cache permanently disabled via manifest flags. Sign Up now shows email and password only with Verify Account button. No more stale UI after updates.",
   "downloadUrl": "https://github.com/nikh360pro/segforge-releases/releases/latest/download/SegForge-Setup.zip"
 }
