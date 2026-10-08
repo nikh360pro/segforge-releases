@@ -1,5 +1,5 @@
 {
-  "version": "1.15.5",
-  "changelog": "Reliable activation: one-step idempotent license binding, real error messages in the desktop app, optional email verification step, sign-up opens first.",
+  "version": "1.16.0",
+  "changelog": "Implemented smart uninstaller to preserve AI Engine and added offline engine version check to prevent unnecessary redownloads on upgrades.",
   "downloadUrl": "https://github.com/nikh360pro/segforge-releases/releases/latest/download/SegForge-Setup.zip"
 }
