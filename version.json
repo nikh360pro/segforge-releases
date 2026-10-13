@@ -1,5 +1,5 @@
 {
-  "version": "1.16.6",
-  "changelog": "Email verification is now required at sign-up, with working Forgot password. Live download progress while the AI engine installs, a startup loading screen, correct version shown in the title bar, and GPU compatibility fixes for all NVIDIA generations including RTX 50-series.",
+  "version": "1.17.0",
+  "changelog": "Free trial with one-click upgrade and automatic unlock, manual license-key entry, country-based pricing, and smoother loading screens with a more responsive window.",
   "downloadUrl": "https://github.com/nikh360pro/segforge-releases/releases/latest/download/SegForge-Setup.zip"
 }
